@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Deniz Memduev - Web Developer. </h1>
 <h3 align="center">I studied Computer Science and Informatics bachelor degree in University of Economics - Varna.</h3>
----
+
 :seedling: I’m currently learning **Javascript and TypeScript**
 
 :star: I like to create frontend apps using **React and Angular**
@@ -32,9 +32,4 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="26" height="26"/>
 
 
-<br />
 
----
-
-
----
