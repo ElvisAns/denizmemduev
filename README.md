@@ -9,9 +9,7 @@
 :star: I like to create frontend apps using **React and Angular**
 
 :mailbox: How to connect with me: deniz.memduev@hotmail.com
-
-<br />
-<br />
+<hr/>
 
 ### Languages and Tools:
 
