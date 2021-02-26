@@ -29,9 +29,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" height="26"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="26" height="26"/>
+<img  align="left" alt="JAVA" width="26px" height="26"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
-<img  align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img  align="left" alt="Firebase" width="26px" height="26" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 
 
