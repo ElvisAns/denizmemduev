@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Deniz Memduev - Web Developer. </h1>
+<h1 align="center">Hi 👋, I'm  Deniz Memduev - Jr. Web Developer. </h1>
 <h3 align="center">I studied Computer Science and Informatics bachelor degree in University of Economics - Varna.</h3>
 
 :seedling: I’m currently learning **Javascript and TypeScript**
