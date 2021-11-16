@@ -4,7 +4,7 @@
 
 <hr/>
 
-:seedling: I’m currently learning **NestJS, NextJS and Cypress**
+:seedling: I’m currently learning **NextJS and Cypress**
 
 :star: I like to create frontend apps using **React and Angular**
 
