@@ -7,8 +7,7 @@
 
 :seedling: I’m currently learning **NextJS**
 
-:mailbox: How to connect with me: denizmemduev.dev@gmail.com
-<hr/>
+
 
 
 <a href="https://www.linkedin.com/in/deniz-memduev-4247281b5" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
