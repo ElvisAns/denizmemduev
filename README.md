@@ -2,7 +2,7 @@
 
 
 
-<div width="100%">
+<div width="100% >
   
 
 <a href="https://www.linkedin.com/in/deniz-memduev-4247281b5" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
@@ -12,6 +12,6 @@
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=denizmemduev&show_icons=true&count_private=true" width="400" height="300"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizmemduev&layout=compact&show_icons=true/" width="400" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizmemduev&layout=compact&show_icons=true/" width="400" height="158"/>
 
 </div>
