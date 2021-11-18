@@ -1,10 +1,15 @@
 
+<h1 align="center">Hello,  I'm  Deniz Memduev  </h1>
+<h3 align="center">I studied Computer Science and Informatics bachelor degree in University of Economics - Varna.</h3>
 
 
+<hr/>
 
+:seedling: I’m currently learning **NextJS**
 
+:mailbox: How to connect with me: denizmemduev.dev@gmail.com
+<hr/>
 
-  
 
 <a href="https://www.linkedin.com/in/deniz-memduev-4247281b5" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/denizmemduev.dev" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
@@ -16,7 +21,7 @@
 
   
   
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=denizmemduev&show_icons=true&count_private=true" width="400" height="auto"/> -->
+ <img src="https://github-readme-stats.vercel.app/api?username=denizmemduev&show_icons=true&count_private=true" width="400" height="auto"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizmemduev&layout=compact&show_icons=true/" width="auto" height="158"/>
 
 </div>
