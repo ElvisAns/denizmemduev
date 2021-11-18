@@ -6,7 +6,7 @@
 
 <hr/>
 
-<!-- :seedling: I’m currently learning **NextJS** --> -->
+<!-- :seedling: I’m currently learning **NextJS** -->
 
 
 
