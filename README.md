@@ -6,7 +6,7 @@
 
 <hr/>
 
-:seedling: I’m currently learning **NextJS, ReactJS, **
+:seedling: I’m currently learning **NextJS**
 
 
 
