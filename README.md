@@ -3,7 +3,7 @@
 <h3 align="center">I studied Computer Science and Informatics bachelor degree in University of Economics - Varna.</h3>
 
 
-
+<hr/>
 
 :seedling: I’m currently learning **NextJS**
 
