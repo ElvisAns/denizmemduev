@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'am  Deniz </h1>
 <h3 align="center">I studied Computer Science and Informatics bachelor degree in University of Economics - Varna.</h3>
-<p align="center">  I am currently working from home as a freelancer, and open to new challenges. </p>
+<!-- <p align="center">  I am currently working from home as a freelancer, and open to new challenges. </p> -->
 
 
 <hr/>
