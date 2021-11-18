@@ -16,7 +16,7 @@
 
   
   
- <img src="https://github-readme-stats.vercel.app/api?username=denizmemduev&show_icons=true&count_private=true" width="400" height="auto"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=denizmemduev&show_icons=true&count_private=true" width="400" height="auto"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizmemduev&layout=compact&show_icons=true/" width="auto" height="158"/>
 
 </div>
