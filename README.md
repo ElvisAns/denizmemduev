@@ -1,7 +1,7 @@
 
 
 
-<div style="width:60%"  align="center" >
+<div style="width:60%"  align="left" >
   <img width="200px" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
  
  <h1> Hi, 👋 I'm Deniz!  </h1> 
