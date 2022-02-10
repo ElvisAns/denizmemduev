@@ -1,8 +1,8 @@
 
 
 
-<div style="width:50%"  align="center" >
-  <img width="100px" src="https://github.com/hendrasob/hendrasob/blob/master/assets/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
+<div style="width:60%"  align="center" >
+  <img width="200px" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
  
  <h1> Hi, 👋 I'm Deniz!  </h1> 
   <p>
@@ -19,9 +19,10 @@
   
 </p>  
 <br/><br/>
-
-   <img src="https://github-readme-stats.vercel.app/api?username=denizmemduev&show_icons=true&count_private=true" width="400" height="auto"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizmemduev&layout=compact&show_icons=true/" width="auto" height="158"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=denizmemduev&show_icons=true&count_private=true" width="400" height="auto"/>
+   
+
 
 
 </div>
