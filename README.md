@@ -24,8 +24,7 @@
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizmemduev&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 
   
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=denizmemduev&show_icons=true&count_private=true" width="400" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizmemduev&layout=compact&show_icons=true/" width="auto" height="158"/> -->
+
 
 </div>
                                                                                                                                                
